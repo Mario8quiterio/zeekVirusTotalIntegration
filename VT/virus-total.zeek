@@ -17,7 +17,7 @@ export {
 	};
 	
 	## This is your VirusTotal API key and *must* be supplied for this plugin to work.
-	const api_key = "e619f420438f65d4f8fed0e39ffab33ba9bac858fb1d2d734f06c2aeca9a4fd0" &redef;
+	const api_key = "" &redef;
 	
 	## Define the number of queries per minute that your API key can make.
 	const queries_per_minute = 4 &redef;
